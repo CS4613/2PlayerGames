@@ -7,6 +7,7 @@ This app will provide you with a library of games. Not just any games, two playe
 ### Creator
 Jacob Elrod
 
+### Features
 Features implemented: Interface, TICTACTOE, Connect some, Pong
 
 Features planned: More games, better interface, stored highscores
